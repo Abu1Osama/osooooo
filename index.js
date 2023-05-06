@@ -20,7 +20,7 @@ try {
   console.log("db is connected")
   
 } catch (error) {
-  console.log("db is not connected")
+  console.log("db is not connecte")
 }
 console.log(`http://localhost:${process.env.port}`)
 })
